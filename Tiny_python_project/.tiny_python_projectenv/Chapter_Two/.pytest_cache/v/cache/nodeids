@@ -1,0 +1,8 @@
+[
+  "test.py::test_consonant",
+  "test.py::test_consonant_upper",
+  "test.py::test_exists",
+  "test.py::test_usage",
+  "test.py::test_vowel",
+  "test.py::test_vowel_upper"
+]

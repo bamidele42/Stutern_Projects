@@ -1,0 +1,7 @@
+[
+  "test.py::test_executable",
+  "test.py::test_exists",
+  "test.py::test_input",
+  "test.py::test_runnable",
+  "test.py::test_usage"
+]
