@@ -1,9 +1,0 @@
-[
-  "test.py::test_exists",
-  "test.py::test_more_than_two",
-  "test.py::test_more_than_two_sorted",
-  "test.py::test_one",
-  "test.py::test_two",
-  "test.py::test_two_sorted",
-  "test.py::test_usage"
-]
