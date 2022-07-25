@@ -1,4 +1,4 @@
-# The Car class
+# This program creates a car class
 
 class Car:
     def __init__(self, brand, colour, model, speed):
